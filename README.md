@@ -1,4 +1,4 @@
 # hello-world
 
-Hi Sir,
+Hi,
 I'm glad to be here to learn new things
